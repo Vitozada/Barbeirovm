@@ -11,3 +11,8 @@ justify-content: center;
     background-color: #000;
     color: #fff;
 }
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
