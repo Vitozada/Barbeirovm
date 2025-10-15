@@ -8,11 +8,32 @@ justify-content: center;
 
 .cabeça{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #000;
+    background-color: #2c2b2b;
     color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:12vh;
+    flex-direction: row;
+}
+.cabeça img{
+width: 7%;
+}
+
+.cabeça .sessao{
+   border: 1px,solid, #ffff;
+   border-radius: 8px;
+   padding: 5px;
 }
 
 a{
     text-decoration: none;
     color: #fff;
+    
+}
+
+a:hover{
+    color: #ff6161;
+    transition: 0.9s;
+    
 }
