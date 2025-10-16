@@ -21,9 +21,9 @@ width: 7%;
 }
 
 .cabeça .sessao{
-   border: 1px,solid, #ffff;
+   border: 2px,solid, #ffff;
    border-radius: 8px;
-   padding: 5px;
+   padding: 10px;
 }
 
 a{
@@ -33,7 +33,7 @@ a{
 }
 
 a:hover{
-    color: #ff6161;
+    color: #fa6666;
     transition: 0.9s;
     
 }
